@@ -2,18 +2,47 @@
 <manifest>
 
   <remote  name="gitee"
-           review="https://gitee.com" />
+           fetch="https://gitee.com" />
 
   <remote  name="github"
            fetch="https://github.com" />
 
-  <default revision="refs/heads/master"
+  <default revision="master"
            remote="gitee"
            sync-c="true"
            sync-j="4" />
 
-  <project path="src-openeuler/lightdm" name="src-openEuler/lightdm" />
-  <project path="src-openeuler/lightdm-gtk-greeter" name="src-openEuler/lightdm-gtk-greeter" />
+  <!-- For Lightdm -->
+  <project path="src-openeuler/pkgs/lightdm" name="src-openEuler/lightdm" />
+  <project path="src-openeuler/pkgs/lightdm-gtk-greeter" name="src-openEuler/lightdm-gtk-greeter" />
 
+  <!-- For misc applications -->
+  <project path="src-openeuler/pkgs/aspell-en" name="src-openEuler/aspell-en" />
+  <project path="src-openeuler/pkgs/evince" name="src-openEuler/evince" />
+
+  <!-- For Xfce Desktop Environment -->
+  <project path="src-openeuler/pkgs/exo" name="src-openEuler/exo" />
+  <project path="src-openeuler/pkgs/garcon" name="src-openEuler/garcon" />
+  <project path="src-openeuler/pkgs/libxfce4ui" name="src-openEuler/libxfce4ui" />
+  <project path="src-openeuler/pkgs/libxfce4util" name="src-openEuler/libxfce4util" />
+  <project path="src-openeuler/pkgs/xfce-polkit" name="src-openEuler/xfce-polkit" />
+  <project path="src-openeuler/pkgs/ristretto" name="src-openEuler/ristretto" />
+  <project path="src-openeuler/pkgs/Thunar" name="src-openEuler/Thunar" />
+  <project path="src-openeuler/pkgs/xfce-polkit" name="src-openEuler/xfce-polkit" />
+  <project path="src-openeuler/pkgs/xfce-theme-manager" name="src-openEuler/xfce-theme-manager" />
+  <project path="src-openeuler/pkgs/xfce4-appfinder" name="src-openEuler/xfce4-appfinder" />
+  <project path="src-openeuler/pkgs/xfce4-dev-tools" name="src-openEuler/xfce4-dev-tools" />
+  <project path="src-openeuler/pkgs/xfce4-panel" name="src-openEuler/xfce4-panel" />
+  <project path="src-openeuler/pkgs/xfce4-power-manager" name="src-openEuler/xfce4-power-manager" />
+  <project path="src-openeuler/pkgs/xfce4-screenshooter" name="src-openEuler/xfce4-screenshooter" />
+  <project path="src-openeuler/pkgs/xfce4-session" name="src-openEuler/xfce4-session" />
+  <project path="src-openeuler/pkgs/xfce4-settings" name="src-openEuler/xfce4-settings" />
+  <project path="src-openeuler/pkgs/xfce4-terminal" name="src-openEuler/xfce4-terminal" />
+  <project path="src-openeuler/pkgs/xfce4-volumed-pulse" name="src-openEuler/xfce4-volumed-pulse" />
+  <project path="src-openeuler/pkgs/xfconf" name="src-openEuler/xfconf" />
+  <project path="src-openeuler/pkgs/xfdesktop" name="src-openEuler/xfdesktop" />
+  <project path="src-openeuler/pkgs/xfwm4" name="src-openEuler/xfwm4" />
+
+  <!-- For packages not in the src-openEuler -->
   <include name="snippets/luke.xml" />
 </manifest>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="dragonJACson/summer2020_openeuler" name="summer2020" remote="github" >
+    <linkfile src="pkgs" dest="src-openEuler/pkgs" />
+  </project>
+</manifest>

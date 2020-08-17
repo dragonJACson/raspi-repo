@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="gitee"
+           review="https://gitee.com" />
+
+  <remote  name="github"
+           fetch="https://github.com" />
+
+  <default revision="refs/heads/master"
+           remote="gitee"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="src-openeuler/lightdm" name="src-openEuler/lightdm" />
+  <project path="src-openeuler/lightdm-gtk-greeter" name="src-openEuler/lightdm-gtk-greeter" />
+
+  <include name="snippets/luke.xml" />
+</manifest>

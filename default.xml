@@ -25,7 +25,6 @@
   <project path="src-openeuler/pkgs/garcon" name="src-openEuler/garcon" />
   <project path="src-openeuler/pkgs/libxfce4ui" name="src-openEuler/libxfce4ui" />
   <project path="src-openeuler/pkgs/libxfce4util" name="src-openEuler/libxfce4util" />
-  <project path="src-openeuler/pkgs/xfce-polkit" name="src-openEuler/xfce-polkit" />
   <project path="src-openeuler/pkgs/ristretto" name="src-openEuler/ristretto" />
   <project path="src-openeuler/pkgs/Thunar" name="src-openEuler/Thunar" />
   <project path="src-openeuler/pkgs/xfce-polkit" name="src-openEuler/xfce-polkit" />

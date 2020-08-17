@@ -12,6 +12,8 @@
            sync-c="true"
            sync-j="4" />
 
+  <project path="src-openeuler/pkgs/mock" name="src-openEuler/mock" />
+
   <!-- For Lightdm -->
   <project path="src-openeuler/pkgs/lightdm" name="src-openEuler/lightdm" />
   <project path="src-openeuler/pkgs/lightdm-gtk-greeter" name="src-openEuler/lightdm-gtk-greeter" />

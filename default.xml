@@ -51,7 +51,7 @@
   <project path="src-openeuler/pkgs/xfce4-panel-profiles" name="src-openEuler/xfce4-panel-profiles" />
   <project path="src-openeuler/pkgs/xfce4-notifyd" name="src-openEuler/xfce4-notifyd" />
   <project path="src-openeuler/pkgs/xfce4-dict" name="src-openEuler/xfce4-dict" />
-  <project path="src-openeuler/pkgs/xfcd4-taskmanager" name="src-openEuler/xfce4-taskmanager" />
+  <project path="src-openeuler/pkgs/xfce4-taskmanager" name="src-openEuler/xfce4-taskmanager" />
   <project path="src-openeuler/pkgs/xfdashboard" name="src-openEuler/xfdashboard" />
   <project path="src-openeuler/pkgs/xfdesktop" name="src-openEuler/xfdesktop" />
   <project path="src-openeuler/pkgs/xfwm4" name="src-openEuler/xfwm4" />

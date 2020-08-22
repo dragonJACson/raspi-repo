@@ -17,6 +17,7 @@
   <!-- For Lightdm -->
   <project path="src-openeuler/pkgs/lightdm" name="src-openEuler/lightdm" />
   <project path="src-openeuler/pkgs/lightdm-gtk-greeter" name="src-openEuler/lightdm-gtk-greeter" />
+  <project path="src-openeuler/pkgs/xorg-x11-xinit" name="src-openeuler/xorg-x11-xinit" />
 
   <!-- For misc applications -->
   <project path="src-openeuler/pkgs/aspell-en" name="src-openEuler/aspell-en" />

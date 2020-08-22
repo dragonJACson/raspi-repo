@@ -17,4 +17,5 @@
   <project path="src-openeuler/pkgs/rpmbuild-order" name="raspi-oo/rpmbuild-order" />
   <project path="src-openeuler/pkgs/libpinyin" name="raspi-oo/libpinyin" />
   <project path="src-openeuler/pkgs/ncdu" name="raspi-oo/ncdu" />
+  <project path="src-openeuler/pkgs/lightdm-gtk" name="raspi-oo/lightdm-gtk" />
 </manifest>

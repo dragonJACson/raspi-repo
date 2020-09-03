@@ -57,6 +57,7 @@
   <project path="src-openeuler/pkgs/xfdesktop" name="src-openEuler/xfdesktop" />
   <project path="src-openeuler/pkgs/xfwm4" name="src-openEuler/xfwm4" />
   <project path="src-openeuler/pkgs/google-noto-cjk-fonts" name="src-openEuler/google-noto-cjk-fonts" />
+  <project path="src-openeuler/pkgs/libnma" name="src-openEuler/libnma" />
   <project path="src-openeuler/pkgs/network-manager-applet" name="src-openEuler/network-manager-applet" />
 
   <!-- For packages not in the src-openEuler -->

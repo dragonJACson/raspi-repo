@@ -33,6 +33,7 @@
   <project path="src-openeuler/pkgs/Thunar" name="src-openEuler/Thunar" />
   <project path="src-openeuler/pkgs/gigolo" name="src-openEuler/gigolo" />
   <project path="src-openeuler/pkgs/parole" name="src-openEuler/parole" />
+  <project path="src-openeuler/pkgs/python-distutils-extra" name="src-openEuler/python-distutils-extra" />
   <project path="src-openeuler/pkgs/catfish" name="src-openEuler/catfish" />
   <project path="src-openeuler/pkgs/xarchiver" name="src-openEuler/xarchiver" />
   <project path="src-openeuler/pkgs/xfburn" name="src-openEuler/xfburn" />

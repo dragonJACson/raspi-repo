@@ -5,19 +5,27 @@
   
   <project path="src-openeuler/pkgs/blueman" name="raspi-oo/blueman" />
   <project path="src-openeuler/pkgs/double-conversion" name="raspi-oo/double-conversion" />
-  <project path="src-openeuler/pkgs/fcitx-libpinyin" name="raspi-oo/fcitx-libpinyin" />
-  <project path="src-openeuler/pkgs/fcitx" name="raspi-oo/fcitx" />
-  <project path="src-openeuler/pkgs/fcitx-qt5" name="raspi-oo/fcitx-qt5" />
   <project path="src-openeuler/pkgs/gedit" name="raspi-oo/gedit" />
   <project path="src-openeuler/pkgs/Midori" name="raspi-oo/Midori" />
-  <project path="src-openeuler/pkgs/inkscape" name="raspi-oo/inkscape" />
-  <project path="src-openeuler/pkgs/imsettings" name="raspi-oo/imsettings" />
   <project path="src-openeuler/pkgs/neofetch" name="raspi-oo/neofetch" />
-  <project path="src-openeuler/pkgs/im-chooser" name="raspi-oo/im-chooser" />
   <project path="src-openeuler/pkgs/htop" name="raspi-oo/htop" />
-  <project path="src-openeuler/pkgs/libgxim" name="raspi-oo/libgxim" />
-  <project path="src-openeuler/pkgs/sysconftool" name="raspi-oo/sysconftool" />
-  <project path="src-openeuler/pkgs/libpinyin" name="raspi-oo/libpinyin" />
   <project path="src-openeuler/pkgs/ncdu" name="raspi-oo/ncdu" />
   <project path="src-openeuler/pkgs/lightdm-gtk" name="raspi-oo/lightdm-gtk" />
+
+  <!-- For fcitx -->
+  <project path="src-openeuler/pkgs/libgxim" name="raspi-oo/libgxim" />
+  <project path="src-openeuler/pkgs/imsettings" name="raspi-oo/imsettings" />
+  <project path="src-openeuler/pkgs/im-chooser" name="raspi-oo/im-chooser" />
+  <project path="src-openeuler/pkgs/sysconftool" name="raspi-oo/sysconftool" />
+  <project path="src-openeuler/pkgs/libpinyin" name="raspi-oo/libpinyin" />
+  <project path="src-openeuler/pkgs/fcitx" name="raspi-oo/fcitx" />
+  <project path="src-openeuler/pkgs/fcitx-qt5" name="raspi-oo/fcitx-qt5" />
+  <project path="src-openeuler/pkgs/fcitx-libpinyin" name="raspi-oo/fcitx-libpinyin" />
+  <project path="src-openeuler/pkgs/fcitx-configtool" name="raspi-oo/fcitx-configtool" />
+
+  <!-- For GTK theme and icon theme -->
+  <project path="src-openeuler/pkgs/inkscape" name="raspi-oo/inkscape" />
+  <project path="src-openeuler/pkgs/google-roboto-fonts" name="raspi-oo/google-roboto-fonts" />
+  <project path="src-openeuler/pkgs/papirus-icon-theme" name="raspi-oo/papirus-icon-theme" />
+  <project path="src-openeuler/pkgs/materia-gtk-theme" name="raspi-oo/materia-gtk-theme" />
 </manifest>

@@ -12,11 +12,8 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="src-openeuler/pkgs/mock" name="src-openEuler/mock" />
-
   <!-- For Lightdm -->
   <project path="src-openeuler/pkgs/lightdm" name="src-openEuler/lightdm" />
-  <project path="src-openeuler/pkgs/lightdm-gtk-greeter" name="src-openEuler/lightdm-gtk-greeter" />
   <project path="src-openeuler/pkgs/xorg-x11-xinit" name="src-openeuler/xorg-x11-xinit" />
 
   <!-- For misc applications -->
@@ -58,7 +55,6 @@
   <project path="src-openeuler/pkgs/xfdashboard" name="src-openEuler/xfdashboard" />
   <project path="src-openeuler/pkgs/xfdesktop" name="src-openEuler/xfdesktop" />
   <project path="src-openeuler/pkgs/xfwm4" name="src-openEuler/xfwm4" />
-  <project path="src-openeuler/pkgs/google-noto-cjk-fonts" name="src-openEuler/google-noto-cjk-fonts" />
   <project path="src-openeuler/pkgs/libnma" name="src-openEuler/libnma" />
   <project path="src-openeuler/pkgs/network-manager-applet" name="src-openEuler/network-manager-applet" />
 

@@ -27,6 +27,7 @@
   <project path="src-openeuler/pkgs/gdlmm" name="raspi-oo/gdlmm" />
   <project path="src-openeuler/pkgs/inkscape" name="raspi-oo/inkscape" />
   <project path="src-openeuler/pkgs/google-roboto-fonts" name="raspi-oo/google-roboto-fonts" />
+  <project path="src-openeuler/pkgs/gtk-murrine-engine" name="raspi-oo/gtk-murrine-engine" />
   <project path="src-openeuler/pkgs/papirus-icon-theme" name="raspi-oo/papirus-icon-theme" />
   <project path="src-openeuler/pkgs/materia-gtk-theme" name="raspi-oo/materia-gtk-theme" />
 </manifest>

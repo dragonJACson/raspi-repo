@@ -29,6 +29,11 @@
   <project path="src-openeuler/pkgs/tumbler" name="src-openEuler/tumbler" />
   <project path="src-openeuler/pkgs/ristretto" name="src-openEuler/ristretto" />
   <project path="src-openeuler/pkgs/Thunar" name="src-openEuler/Thunar" />
+  <project path="src-openeuler/pkgs/thunarx-python" name="src-openEuler/thunarx-python" />
+  <project path="src-openeuler/pkgs/thunar-volman" name="src-openEuler/thunar-volman" />
+  <project path="src-openeuler/pkgs/thunar-vcs-plugin" name="src-openEuler/thunar-vcs-plugin" />
+  <project path="src-openeuler/pkgs/thunar-media-tags-plugin" name="src-openEuler/thunar-media-tags-plugin" />
+  <project path="src-openeuler/pkgs/thunar-archive-plugin" name="src-openEuler/thunar-archive-plugin" />
   <project path="src-openeuler/pkgs/gigolo" name="src-openEuler/gigolo" />
   <project path="src-openeuler/pkgs/parole" name="src-openEuler/parole" />
   <project path="src-openeuler/pkgs/python-distutils-extra" name="src-openEuler/python-distutils-extra" />

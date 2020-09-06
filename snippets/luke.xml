@@ -7,6 +7,7 @@
   <project path="src-openeuler/pkgs/double-conversion" name="raspi-oo/double-conversion" />
   <project path="src-openeuler/pkgs/fcitx-libpinyin" name="raspi-oo/fcitx-libpinyin" />
   <project path="src-openeuler/pkgs/fcitx" name="raspi-oo/fcitx" />
+  <project path="src-openeuler/pkgs/fcitx-qt5" name="raspi-oo/fcitx-qt5" />
   <project path="src-openeuler/pkgs/gedit" name="raspi-oo/gedit" />
   <project path="src-openeuler/pkgs/Midori" name="raspi-oo/Midori" />
   <project path="src-openeuler/pkgs/inkscape" name="raspi-oo/inkscape" />

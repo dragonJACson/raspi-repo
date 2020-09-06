@@ -15,6 +15,7 @@
   <project path="src-openeuler/pkgs/im-chooser" name="raspi-oo/im-chooser" />
   <project path="src-openeuler/pkgs/htop" name="raspi-oo/htop" />
   <project path="src-openeuler/pkgs/libgxim" name="raspi-oo/libgxim" />
+  <project path="src-openeuler/pkgs/sysconftool" name="raspi-oo/sysconftool" />
   <project path="src-openeuler/pkgs/libpinyin" name="raspi-oo/libpinyin" />
   <project path="src-openeuler/pkgs/ncdu" name="raspi-oo/ncdu" />
   <project path="src-openeuler/pkgs/lightdm-gtk" name="raspi-oo/lightdm-gtk" />

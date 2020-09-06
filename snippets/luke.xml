@@ -4,7 +4,7 @@
   <project name="lukedyue/summer2020" path="summer2020" revision="future" />
   
   <project path="src-openeuler/pkgs/blueman" name="raspi-oo/blueman" />
-  <project path="src-openeuler/pkgs/double-conversion" name="raspi-oo/double-conversion" />
+  <project path="src-openeuler/pkgs/gdlmm" name="raspi-oo/gdlmm" />
   <project path="src-openeuler/pkgs/gedit" name="raspi-oo/gedit" />
   <project path="src-openeuler/pkgs/Midori" name="raspi-oo/Midori" />
   <project path="src-openeuler/pkgs/neofetch" name="raspi-oo/neofetch" />

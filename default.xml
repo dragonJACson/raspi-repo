@@ -18,6 +18,7 @@
 
   <!-- For misc applications -->
   <project path="src-openeuler/pkgs/aspell-en" name="src-openEuler/aspell-en" />
+  <project path="src-openeuler/pkgs/double-conversion" name="src-openEuler/double-conversion" />
   <project path="src-openeuler/pkgs/evince" name="src-openEuler/evince" />
 
   <!-- For Xfce Desktop Environment -->

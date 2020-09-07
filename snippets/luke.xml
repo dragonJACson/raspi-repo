@@ -20,6 +20,7 @@
   <project path="src-openeuler/pkgs/fcitx" name="raspi-oo/fcitx" />
   <project path="src-openeuler/pkgs/fcitx-qt5" name="raspi-oo/fcitx-qt5" />
   <project path="src-openeuler/pkgs/fcitx-libpinyin" name="raspi-oo/fcitx-libpinyin" />
+  <project path="src-openeuler/pkgs/unique3" name="raspi-oo/unique3" />
   <project path="src-openeuler/pkgs/fcitx-configtool" name="raspi-oo/fcitx-configtool" />
 
   <!-- For GTK theme and icon theme -->

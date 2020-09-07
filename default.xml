@@ -12,6 +12,8 @@
            sync-c="true"
            sync-j="4" />
 
+  <project path="src-openeuler/pkgs/openEuler-repos" name="src-openEuler/openEuler-repos" />
+
   <!-- For Lightdm -->
   <project path="src-openeuler/pkgs/lightdm" name="src-openEuler/lightdm" />
   <project path="src-openeuler/pkgs/xorg-x11-xinit" name="src-openeuler/xorg-x11-xinit" />

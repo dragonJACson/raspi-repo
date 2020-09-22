@@ -66,6 +66,37 @@
   <project path="src-openeuler/pkgs/libnma" name="src-openEuler/libnma" />
   <project path="src-openeuler/pkgs/network-manager-applet" name="src-openEuler/network-manager-applet" />
 
+  <!-- For xfce-panel plugins -->
+  <project path="src-openeuler/pkgs/xfce4-battery-plugin" name="src-openEuler/xfce4-battery-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-calculator-plugin" name="src-openEuler/xfce4-calculator-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-clipman-plugin" name="src-openEuler/xfce4-clipman-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-cpugraph-plugin" name="src-openEuler/xfce4-cpugraph-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-datetime-plugin" name="src-openEuler/xfce4-datetime-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-diskperf-plugin" name="src-openEuler/xfce4-diskperf-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-embed-plugin" name="src-openEuler/xfce4-embed-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-eyes-plugin" name="src-openEuler/xfce4-eyes-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-fsguard-plugin" name="src-openEuler/xfce4-fsguard-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-genmon-plugin" name="src-openEuler/xfce4-genmon-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-hardware-monitor-plugin" name="src-openEuler/xfce4-hardware-monitor-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-mailwatch-plugin" name="src-openEuler/xfce4-mailwatch-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-mount-plugin" name="src-openEuler/xfce4-mount-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-mpc-plugin" name="src-openEuler/xfce4-mpc-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-netload-plugin" name="src-openEuler/xfce4-netload-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-notes-plugin" name="src-openEuler/xfce4-notes-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-places-plugin" name="src-openEuler/xfce4-places-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-pulseaudio-plugin" name="src-openEuler/xfce4-pulseaudio-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-sensors-plugin" name="src-openEuler/xfce4-sensors-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-smartbookmark-plugin" name="src-openEuler/xfce4-smartbookmark-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-statusnotifier-plugin" name="src-openEuler/xfce4-statusnotifier-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-systemload-plugin" name="src-openEuler/xfce4-systemload-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-timer-plugin" name="src-openEuler/xfce4-timer-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-time-out-plugin" name="src-openEuler/xfce4-time-out-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-verve-plugin" name="src-openEuler/xfce4-verve-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-wavelan-plugin" name="src-openEuler/xfce4-wavelan-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-weather-plugin" name="src-openEuler/xfce4-weather-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-whiskermenu-plugin" name="src-openEuler/xfce4-whiskermenu-plugin" />
+  <project path="src-openeuler/pkgs/xfce4-xkb-plugin" name="src-openEuler/xfce4-xkb-plugin" />
+
   <!-- For packages not in the src-openEuler -->
   <include name="snippets/luke.xml" />
 </manifest>

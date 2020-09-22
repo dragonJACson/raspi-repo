@@ -77,6 +77,8 @@
   <project path="src-openeuler/pkgs/xfce4-eyes-plugin" name="src-openEuler/xfce4-eyes-plugin" />
   <project path="src-openeuler/pkgs/xfce4-fsguard-plugin" name="src-openEuler/xfce4-fsguard-plugin" />
   <project path="src-openeuler/pkgs/xfce4-genmon-plugin" name="src-openEuler/xfce4-genmon-plugin" />
+  <project path="src-openeuler/pkgs/libglademm24" name="src-openEuler/libglademm24" />
+  <project path="src-openeuler/pkgs/libgnomecanvasmm26" name="src-openEuler/libgnomecanvasmm26" />
   <project path="src-openeuler/pkgs/xfce4-hardware-monitor-plugin" name="src-openEuler/xfce4-hardware-monitor-plugin" />
   <project path="src-openeuler/pkgs/xfce4-mailwatch-plugin" name="src-openEuler/xfce4-mailwatch-plugin" />
   <project path="src-openeuler/pkgs/xfce4-mount-plugin" name="src-openEuler/xfce4-mount-plugin" />

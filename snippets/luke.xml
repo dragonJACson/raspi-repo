@@ -3,6 +3,10 @@
 
   <project name="lukedyue/summer2020" path="summer2020" revision="future" />
   
+  <!-- tmp fix -->
+  <project path="src-openeuler/pkgs/xfce4-panel" name="lukedyue/xfce4-panel" />
+  <project path="src-openeuler/pkgs/xfdesktop" name="lukedyue/xfdesktop" />
+
   <project path="src-openeuler/pkgs/blueman" name="raspi-oo/blueman" />
   <project path="src-openeuler/pkgs/gparted" name="raspi-oo/gparted" />
   <project path="src-openeuler/pkgs/gedit" name="raspi-oo/gedit" />
